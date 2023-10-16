@@ -22,6 +22,8 @@ include "db.php";
     </style>
 
 <body>
+
+<h2>Change</h2>
     <?php include "header.php" ?>
 
     <!-- Carousel images -->
