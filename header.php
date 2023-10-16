@@ -13,6 +13,7 @@ include "db.php"?>
 </head>
 
 <body>
+    <h1>change2</h1>
     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2b2a2a;">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
